@@ -1,0 +1,1 @@
+avrdude -p atmega168 -c usbtiny -U lfuse:w:0xC6:m -u
